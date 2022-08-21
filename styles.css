@@ -93,7 +93,7 @@
   background-color: black;
   height: 680px;
   width: 1440px;
-  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url("images/Neidi.jpg");
+  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url("Neidi.jpg");
   background-attachment: fixed;
   background-size: 1440px;
   background-position: 0% 20%;
