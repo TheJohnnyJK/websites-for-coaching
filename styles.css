@@ -1,0 +1,127 @@
+.slide {
+  margin-top: 0.2rem;
+  padding: 1rem;
+  height: 20px;
+  background-color: #2C4739;
+}
+
+
+.heading {
+  position: absolute;
+  color: white;
+  top: 40%;
+  left: 2%;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+  font-weight: 400;
+  line-height: 1.4;
+  font-size: 40px;
+  letter-spacing: 0.1rem;
+
+}
+
+.headingtwo {
+  position: absolute;
+  color: white;
+  top: 46%;
+  left: 8%;
+  text-transform: uppercase;
+  font-family: 'Oswald';
+  font-weight: 400;
+  line-height: 1.4;
+  font-size: 40px;
+  letter-spacing: 0.1rem;
+
+
+}
+
+.headerline {
+  position: absolute;
+  border:none;
+  border-top:0.4px dashed white;
+  color:white;
+  background-color:white;
+  height:0.5px;
+  width:18rem;
+  top: 85%;
+  right: 200px;
+}
+
+.navbar {
+  background-color: #ECEDE8;
+  font-family: 'Dallas Light';
+  letter-spacing: 0.1rem;
+}
+
+.nav-link {
+  color: black;
+}
+
+.navbar ul li {
+	padding: 0px 0.5rem;
+ }
+
+.headingthree {
+  position: absolute;
+  color: white;
+  top: 84.5%;
+  right: 14%;
+  font-family: 'poppins';
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 14px;
+
+}
+
+.headingfour {
+  position: absolute;
+  color: white;
+  top: 88%;
+  right: 14%;
+  font-family: 'poppins';
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 14px;
+}
+
+.mainimg {
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  
+}
+
+.bulletpointh {
+  margin-bottom: 20px;
+}
+
+.sectiontwo {
+  background-color: #ECEDE8
+}
+
+.sectiontwoimage {
+
+}
+
+.sectionthree {
+  background-color: #ECEDE8
+}
+
+.sectionfour {
+  background-color: #ECEDE8
+}
+
+.sectionfive {
+  background-color: #ECEDE8
+}
+
+.sectionsix {
+  background-color: #ECEDE8
+}
+.icon {
+  color: white;
+}
+
+.slide {
+  margin: 0px
+}
